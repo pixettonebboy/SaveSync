@@ -26,7 +26,7 @@ cd retroarch-save-sync
 chmod +x save-sync.sh
 ```
 
-2. (Optional) Configure `rclone` if you haven't already done it:
+2. (Optional) Configure `rclone` if you haven't already done it (⚠️make sure you have the file rclone.conf⚠️):
 
 ```bash
 rclone config
